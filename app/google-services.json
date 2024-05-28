@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324405348174",
+    "project_id": "swiftcartfinalproject",
+    "storage_bucket": "swiftcartfinalproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324405348174:android:ca0fc17f60f82b8f74401f",
+        "android_client_info": {
+          "package_name": "com.example.swiftcart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_JQ5zAne1-cGUpMGWLqDDdzpLdeA5lPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
